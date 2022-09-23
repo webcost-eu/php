@@ -1,0 +1,67 @@
+<?php
+
+$lang['label_activity_details_view'] = 'Wyświetlone szczegóły';
+$lang['label_activity_details_add'] = 'Dodano szczegóły';
+$lang['label_activity_details_edit'] = 'Edytowane szczegóły';
+$lang['label_activity_details_delete'] = 'Usunięte szczegóły';
+$lang['label_activity_notes_view'] = 'Obejrzane notatki';
+$lang['label_activity_notes_add'] = 'Dodane notatki';
+$lang['label_activity_notes_edit'] = 'Edytowane notatki';
+$lang['label_activity_notes_delete'] = 'Usunięte notatki';
+$lang['label_activity_tasks_view'] = 'Wyświetlone zadania';
+$lang['label_activity_tasks_add'] = 'Dodane zadania';
+$lang['label_activity_tasks_edit'] = 'Edytowane zadania';
+$lang['label_activity_tasks_delete'] = 'Usunięte zadania';
+$lang['label_activity_documents_view'] = 'Przeglądane dokumenty';
+$lang['label_activity_documents_add'] = 'Dodane dokumenty';
+$lang['label_activity_documents_edit'] = 'Dokumenty edytowane';
+$lang['label_activity_documents_delete'] = 'Dokumenty usunięte';
+$lang['label_activity_payments_view'] = 'Wyświetlone płatności';
+$lang['label_activity_payments_add'] = 'Dodane płatności';
+$lang['label_activity_payments_edit'] = 'Edytowane płatności';
+$lang['label_activity_payments_delete'] = 'Płatności usunięte';
+$lang['label_activity_rodo_view'] = 'oglądane rodo';
+$lang['label_activity_rodo_add'] = 'Dodano rodo';
+$lang['label_activity_rodo_edit'] = 'Edytowane rodo';
+$lang['label_activity_rodo_delete'] = 'Usunięto rodo';
+$lang['label_activity_history_view'] = 'Przeglądana historia';
+$lang['label_activity_history_add'] = 'Dodano historię';
+$lang['label_activity_history_edit'] = 'Edytowana historia';
+$lang['label_activity_history_delete'] = 'Usunięto historię';
+$lang['label_activity_annex_view'] = 'Przeglądany załącznik';
+$lang['label_activity_annex_add'] = 'Dodano załącznik';
+$lang['label_activity_annex_edit'] = 'Edytowany załącznik';
+$lang['label_activity_annex_delete'] = 'Aneks usunięty';
+$lang['label_activity_emails_add'] = 'Dodane e-maile';
+$lang['label_activity_emails_list'] = 'Wyświetlona lista e-maili';
+$lang['label_activity_emails_view'] = 'Wyświetlone e-maile';
+$lang['label_activity_emails_edit'] = 'Edytowane e-maile';
+$lang['label_activity_emails_delete'] = 'Usunięte e-maile';
+$lang['label_activity_emails_resend'] = 'E-mail wysłany ponownie';
+$lang['label_activity_patterns_add'] = 'Dodano wzory';
+$lang['label_activity_patterns_view'] = 'Oglądane wzory';
+$lang['label_activity_patterns_edit'] = 'Edytowane wzory';
+$lang['label_activity_patterns_delete'] = 'Usunięte wzory';
+$lang['label_activity_working_time_add'] = 'Dodano czas pracy';
+$lang['label_activity_working_time_view'] = 'Wyświetlony czas pracy';
+$lang['label_activity_working_time_edit'] = 'Edytowany czas_pracy';
+$lang['label_activity_working_time_delete'] = 'Usunięto czas pracy';
+
+$lang['label_activity_sms_list'] = 'Wyświetlona lista SMS';
+$lang['label_activity_sms_add'] = 'Dodano SMS';
+$lang['label_activity_sms_view'] = 'Obejrzany SMS';
+$lang['label_activity_sms_edit'] = 'Edytowany SMS';
+$lang['label_activity_sms_delete'] = 'Obejrzany SMS';
+$lang['label_activity_sms_resend'] = 'SMS wysłany ponownie';
+
+$lang['label_activity_envelope_list'] = 'Wyświetlona lista kopert';
+$lang['label_activity_envelope_add'] = 'Dodano kopertę';
+$lang['label_activity_envelope_view'] = 'Obejrzana koperta';
+$lang['label_activity_envelope_edit'] = 'Edytowana koperta';
+$lang['label_activity_envelope_delete'] = 'Koperta usunięta';
+$lang['label_activity_envelope_generate'] = 'Wygenerowana koperta';
+
+$lang['label_activity_procurations_add'] = 'Dodano pełnomocnictwo';
+$lang['label_activity_procurations_view'] = 'Wyświetlone pełnomocnictwo';
+$lang['label_activity_procurations_edit'] = 'Edytowane pełnomocnictwo';
+$lang['label_activity_procurations_delete'] = 'Usunięto pełnomocnictwo';
